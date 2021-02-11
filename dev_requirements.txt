@@ -2,7 +2,7 @@ freezegun==0.3.12
 pytest==5.4.3
 flake8>=3.5.0
 pytz==2017.2
-bumpversion==0.5.3
+bumpversion==0.6.0
 tox==3.14.4
 virtualenv==20.0.3
 six>=1.14.0
