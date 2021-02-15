@@ -75,7 +75,7 @@ setup(
         'typing-extensions>=3.7.4,<3.8',
         # the following are all to match snowflake-connector-python
         'requests>=2.18.0,<2.24.0',
-        'idna<2.10',
+        'idna<3.2',
         'cffi>=1.9,<1.15',
     ],
     zip_safe=False,
