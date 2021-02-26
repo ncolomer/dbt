@@ -53,7 +53,7 @@ setup(
         'google-cloud-core>=1.3.0,<1.5',
         'google-cloud-bigquery>=1.25.0,<2.4',
         'google-api-core>=1.16.0,<1.24',
-        'googleapis-common-protos>=1.6.0,<1.53',
+        'googleapis-common-protos>=1.6.0,<1.54',
         'six>=1.14.0',
     ],
     zip_safe=False,
